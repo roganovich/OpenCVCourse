@@ -1,3 +1,4 @@
+#открываем изображение
 import cv2 as cv
 
 file = 'images/1.jpg'
